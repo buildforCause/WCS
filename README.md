@@ -1,2 +1,0 @@
-# whitecat.studio
-built source
