@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/services.js"],"names":[],"mappings":"4FAAA,4CAGe,4BACb,kBAAC,UAAD","file":"component---src-pages-services-js-a744ab7606d5f0f01192.js","sourcesContent":["import React from \"react\";\r\nimport ServicesPage from \"./ServicesPage/ServicesPage\";\r\n\r\nexport default () => (\r\n  <ServicesPage/>\r\n);\r\n"],"sourceRoot":""}
